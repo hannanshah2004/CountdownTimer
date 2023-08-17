@@ -1,0 +1,19 @@
+body {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .timer-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #timerDisplay {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  input, button {
+    margin-top: 5px;
+  }
+  
